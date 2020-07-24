@@ -14,7 +14,7 @@ public class Generator {
 
     /**
      * 简单生成有道生词本
-     * @param pathFrom 文本路径，文本是"单词或词组 解释\n"的格式
+     * @param pathFrom 文本路径，文本是"单词或词组 解释"的格式
      * @param pathTo 生成的文本路径
      * @param group 有道中的分组
      * @throws UnsupportedEncodingException
